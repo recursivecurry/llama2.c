@@ -1,4 +1,4 @@
-## llama2.c
+## llama2_rs from llama2.c
 
 <img src="assets/llama_cute.jpg" width="300" height="300">
 
